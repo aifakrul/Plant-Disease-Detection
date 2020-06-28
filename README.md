@@ -6,13 +6,17 @@ You will also get the taste of transfer learning and how to use  industry leadin
    
 Technology Used:
 
-TensorFlow 2.x, Keras, openCV, Scikit-Learn and Python 3.7
+TensorFlow 2.x, Keras, OpenCV, Scikit-Learn, Matplotlib, Seaborn and Python 3.7
 
 You can collect the Dataset from my Google Drive:
 
 https://drive.google.com/file/d/1odLdFTMf_U-SkCTa0JIWmzVFTmV14paO/view?usp=sharing
 
+###########
+
 How to use:
+
+###########
 
 Run all, *TF_Records_Preparation.ipynb files to process your training images to TFRecords.
 
