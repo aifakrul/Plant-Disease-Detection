@@ -1,6 +1,6 @@
 # Project Details:
 
-# Identify 20 deadly diseases of Apple, Grape, Maize, Potato and Tomato using convolutional neural networks (CNN), transfer learning and multilevel classifications. This git will help you to understand how to process millions of images through the batch processing pipeline(TFRecords) to train your model. 
+# Identify 20 deadly diseases of Apple, Grape, Maize, Potato and Tomato using convolutional neural networks (CNN), transfer learning and multilevel classifications. This git will help you to understand how to process millions of images dataset through the batch processing pipeline(TFRecords) to train your model. 
 
 You will also get the taste of transfer learning and how to use  industry leading MobileNetV2, ResNet50V2, ResNet101V2, ResNet152V2, Xception, VGG16, VGG19, InceptionResNetV2 and InceptionV3 pretrained model as well as how to assess their top layer prediction accuracy.
    
