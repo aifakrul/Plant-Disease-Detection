@@ -11,6 +11,12 @@ TensorFlow 2.x, Keras, openCV, Scikit-Learn and Python 3.7
 You can collect the Dataset from my Google Drive:
 
 https://drive.google.com/file/d/1odLdFTMf_U-SkCTa0JIWmzVFTmV14paO/view?usp=sharing
+
+How to use:
+
+Run all, *TF_Records_Preparation.ipynb files to process your training images to TFRecords.
+
+Run all, *_diseases_solution.ipynb files to inference/ to predict the disease
   
 
 MD Fakrul Islam, Certified Data Scientist, Machine Learning, Deep Learning Engineer and Big Data Professional
