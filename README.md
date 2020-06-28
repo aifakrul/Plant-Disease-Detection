@@ -1,24 +1,14 @@
 # Project Details:
 
-# Identify diseases of below plants using convolutional neural networks (CNN), transfer learning strategy and multilevel classifications. 
- 
-# Apple-  3 Deadly diseases
-
-# Grape-  3 Deadly diseases
-
-# Maize-  3 Deadly diseases
-
-# Potato- 2 Deadly diseases
-
-# Tomato- 9 Deadly diseases
-  
+# Identify 20 deadly diseases of Apple, Grape, Maize, Potato and Tomato using convolutional neural networks (CNN), transfer learning and multilevel classifications. 
+   
 # The git will show you: 
 
 # Batch Processing Pipeline: How to process millions of images to train your model.
 
 # Transfer Learning Strategy: How to use transfer learning to develop your AI model to solve advanced computer vision problems.
 
-# Multilevel Classificaiton: A classic example of multi-level classifications.
+# Multilevel Classificaiton: A classic example/practical step by step guide for multi-level classifications.
  
 # How to use:  MobileNetV2, ResNet50V2, ResNet101V2, ResNet152V2, Xception, VGG16, VGG19, InceptionResNetV2 and InceptionV3
 
