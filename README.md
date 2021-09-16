@@ -8,9 +8,9 @@ Technology Used:
 
 TensorFlow 2.x, Keras, OpenCV, Scikit-Learn, Matplotlib, Seaborn and Python 3.7
 
-You can collect the Dataset from my Google Drive:
+You can collect the Dataset from KAGGLE
+https://www.kaggle.com/abdallahalidev/plantvillage-dataset
 
-https://drive.google.com/file/d/1odLdFTMf_U-SkCTa0JIWmzVFTmV14paO/view?usp=sharing
 
 ###########
 
