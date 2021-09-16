@@ -24,15 +24,6 @@ Run all, *_diseases_solution.ipynb files to inference/ to predict the disease
   
 
 ################################################################################################
-
-MD Fakrul Islam, Certified Data Scientist, Machine Learning, Deep Learning Engineer and Big Data Professional
-
-Email: fakruldsebd@gmail.com
-
-Phone: +8801954345775
-
 https://www.linkedin.com/in/fakrul-islam-bd/
 
 https://github.com/aifakrul
-
-Contact for nlp/nlu, image, audio/speech, video processing and contextual ai in real time to solve your complex Business AI Problem
